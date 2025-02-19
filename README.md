@@ -30,15 +30,8 @@ Before running this project, make sure you have the following installed:
    ```bash
    npm install
    ```
-
-3. Create a `.env` file in the server directory with the following variables:
-   ```
-   PORT=5000
-   MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   ```
-
-4. Start the server:
+   
+3. Start the server:
    ```bash
    npm start
    ```
@@ -112,19 +105,11 @@ Instructions for deploying the backend (e.g., Heroku, DigitalOcean, AWS)
 ### Frontend Deployment
 Instructions for deploying the frontend (e.g., Netlify, Vercel, AWS S3)
 
-## Contributing
-
-Instructions for how others can contribute to your project.
-
-## License
-
-[Your chosen license]
-
 ## Contact
 
 - Jayendra Parmar
 - Email: jpdeveloper201@gmail.com
-- Project Link: [GitHub Repository URL]
+- Project Link: [[GitHub Repository URL]](https://github.com/Jp88Programmer/account-mangement)
 
 ## Acknowledgments
 
